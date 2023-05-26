@@ -1,3 +1,6 @@
+![image](https://github.com/infosunnysingh/IncrementDecrementUsingHooks/assets/79641266/55935c2f-c6f4-4561-82f2-b1abcf13283f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
